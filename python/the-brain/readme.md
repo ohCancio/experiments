@@ -38,5 +38,5 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-* Hat tip to João Galego for help on existential aspects of the code.
+* Hat tip to [João Galego](https://github.com/JGalego) for help on existential aspects of the code.
 
