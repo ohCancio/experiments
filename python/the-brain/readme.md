@@ -1,5 +1,5 @@
 # Disclaimer
-This is not a real project and only served for me to get acquainted with Python Development.
+This is not a real project and only served for me to get acquainted with Python Development. TODO: Parametrize all the insanity described below.
 
 # The Brain
 
@@ -17,7 +17,7 @@ There are a few aspects that affect a neuron:
 * adjacent neurons - neurons that are directly adjacent in 3D (along x, y and z individually; i.e. no diagonals)
 
 The script is generating 20 generations of the brain with 1000 iterations each and dropping the plot into a gif.
-Each generation starts with a cube where each position
+Each generation starts with a cube where each position (neuron) is constantly charged and the adjacency calculation has been forced to return only positive movements on the grid. Gives it that smoky taste.
 
 ### Prerequisites
 
